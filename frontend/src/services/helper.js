@@ -1,2 +1,2 @@
 // export const BASE_URL = "http://localhost:6010"
-export const BASE_URL = "https://internship-app.onrender.comm"
+export const BASE_URL = "https://internship-app.onrender.com"
